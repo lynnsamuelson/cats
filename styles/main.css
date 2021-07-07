@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+body {
+  background-color: #4ea3e657;
+}
+
+img {
+  height: 11rem;
+}
+
+button {
+  color: black;
+  background-color: #719ad285;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 0.25rem;
+  margin-top: 0.4rem
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem;
+}
